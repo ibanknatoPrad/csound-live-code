@@ -14,7 +14,7 @@ endin
 
 ;; TIME
 
-gk_tempo init 120 
+gk_tempo init 128
 
 
 /** Set tempo of global clock to itempo value in beats per minute. */
